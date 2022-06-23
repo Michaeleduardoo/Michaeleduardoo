@@ -21,14 +21,20 @@ Tenho experiência com desenvolvimento de aplicações , tenho conhecimento com 
  
  ### Conecte-se comigo:
  <p>
-   <a href="www.linkedin.com/in/michael-eduardo" alt"linkedin"> <img width=25px;  aling="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="react" /> </a>
-           <a href= "mailto:michaeledu2018@gmail.com? subject=subject text"> <img width=25px;  aling="left" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="email"></a>
-              <a href= "mailto:michaeledu20@outlook.com? subject=subject text"><img width=25px;  src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202101logomicrosoftoutlooksocialsocialmedia-115587_115714.png" alt="hotmail"></a>
+<a mar href="https://www.linkedin.com/in/michael-eduardo/" alt"linkedin"> <img width=25px; ; align="left"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="react" />
+ </a>
+  <a href= "mailto:michaeledu2018@gmail.com? subject=subject text"> <img width=25px; align="left"  src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="email">
+  </a>
+ <a href= "mailto:michaeledu20@outlook.com? subject=subject text"><img width=25px; align="left" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202101logomicrosoftoutlooksocialsocialmedia-115587_115714.png" alt="hotmail">
+</a>
  </p>
+ <br>
+ <br>
+
+[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeleduardoo)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
-
-
+[![Michael stats](https://github-readme-stats.vercel.app/api?username=Michaeleduardoo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
