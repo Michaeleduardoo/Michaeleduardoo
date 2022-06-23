@@ -15,7 +15,7 @@ Tenho experiência com desenvolvimento de aplicações , tenho conhecimento com 
        
 
 
- <p>Biblioteca que estou interessado de aprender:</p> 
+ <p>Biblioteca que estou interessado em aprender:</p> 
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 10px; margin-top: 10px; height:30px; width:100px">
  
  
