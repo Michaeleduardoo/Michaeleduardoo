@@ -28,6 +28,7 @@ Tenho experiência com desenvolvimento de aplicações , tenho conhecimento com 
  <a href= "mailto:michaeledu20@outlook.com? subject=subject text"><img width=25px; align="left" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202101logomicrosoftoutlooksocialsocialmedia-115587_115714.png" alt="hotmail">
 </a>
  </p>
+<br>
  <br>
  <br>
 
