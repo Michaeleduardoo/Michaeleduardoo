@@ -22,7 +22,7 @@ Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
   <a href= "mailto:michaeledu20@outlook.com"> <img width=15%;   src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg" alt="email">
   </a>
  </p>
-
+ 
  <h4> Entre em contato: ⁣</h4>
  <div >
 <a href= "https://wa.me/5531994495245" > <img width=3.7%; align="left"  src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png"/>
@@ -30,27 +30,21 @@ Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
  <a href="tel:31994495245"  ><img width=3.5%;   src="https://www.freepnglogos.com/uploads/logo-telefone-png/telefone-download-logo-png-20.png"/></a>
  </div>
  
- 
+  <h4> Mais informações: ⁣</h4>
+ <a href="https://www.linkedin.com/in/michael-eduardo/"><img align="center" width=15% ; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+ <br>
  <br>
  
+<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=Michaeleduardoo&show_icons=true&theme=merko" alt="ashok" />
 
-  
-![Michaeleduardoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaeleduardoo&show_icons=true&theme=merko&card_width=500)
+<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeleduardoo&count_private=true&theme=merko" alt="ashok" />
+ 
+ <br>
+
+ 
+ <h3> Obrigado por verificar a minha página.</h3>
+
    
-
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeleduardoo&layout=compact&theme=merko&card_width=500&)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-
- 
- 
-        
-       
     
-    
-
-        
-    
-
 
