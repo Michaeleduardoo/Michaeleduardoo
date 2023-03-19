@@ -27,7 +27,7 @@ Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
  <div >
 <a href= "https://wa.me/5531994495245" > <img width=3.7%; align="left"  src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png"/>
  </a>
- <a href="tel:31994495245"  ><img width=3.5%;   src="https://www.freepnglogos.com/uploads/logo-telefone-png/telefone-download-logo-png-20.png"/></a>
+ <a href="tel:+5531994495245"  ><img width=3.9%;   src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-telefone.png/@@images/24174166-eebf-419e-97eb-1826d6dcf5ea.png"/></a>
  </div>
  
   <h4> Mais informações: ⁣</h4>
