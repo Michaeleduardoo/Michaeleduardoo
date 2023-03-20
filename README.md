@@ -11,7 +11,7 @@ Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
 <br>
 
 <div  >
-<img width=1000px; src="https://stellular-kitsune-535a9c.netlify.app/Captura%20de%20Tela%20(109).png" style="margin"  > 
+<img width=1000px; src="https://poetic-crisp-be6208.netlify.app/image-removebg-preview%20(1).png".png" style="margin"  > 
 
 
  ### Conecte-se comigo:
