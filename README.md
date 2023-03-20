@@ -36,9 +36,10 @@ Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
  <br>
  <br>
  
-<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=michaeleduardoo&show_icons=true&theme=merko" alt="ashok" />
+<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=Michaeleduardoo&show_icons=true&theme=tokyonight" alt="ashok" />
 
-<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeleduardoo&count_private=true&theme=merko" alt="ashok" />
+<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeleduardoo&count_private=true&theme=tokyonight" alt="ashok" />
+
  
  <br>
 
