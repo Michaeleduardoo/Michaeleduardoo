@@ -11,27 +11,27 @@ Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
 <br>
 
 <div  >
-<img src="https://stellular-kitsune-535a9c.netlify.app/Captura%20de%20Tela%20(109).png" style="margin"  > 
+<img width=1000px; src="https://stellular-kitsune-535a9c.netlify.app/Captura%20de%20Tela%20(109).png" style="margin"  > 
 
 
  ### Conecte-se comigo:
  <h4> E-mails: ⁣</h4>
  <p>
-<a href= "mailto:michaeledu2018@gmail.com? subject=subject text"> <img width=13%; ;  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="react" />
+<a href= "mailto:michaeledu2018@gmail.com? subject=subject text"> <img width=15%; ;  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="react" />
  </a>
-  <a href= "mailto:michaeledu20@outlook.com"> <img width=15%;   src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg" alt="email">
+  <a href= "mailto:michaeledu20@outlook.com"> <img width=17%;   src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg" alt="email">
   </a>
  </p>
  
  <h4> Entre em contato: ⁣</h4>
  <div >
-<a href= "https://wa.me/5531994495245" > <img width=3.7%; align="left"  src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png"/>
+<a href= "https://wa.me/5531994495245" > <img width=30px; align="left"  src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png"/>
  </a>
- <a href="https://criarmeulink.com.br/u/1679192653" ><img width=4%; src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-telefone.png/@@images/24174166-eebf-419e-97eb-1826d6dcf5ea.png"></a>
+ <a href="https://criarmeulink.com.br/u/1679192653" ><img width=34px; src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-telefone.png/@@images/24174166-eebf-419e-97eb-1826d6dcf5ea.png"></a>
  </div>
  
   <h4> Mais informações: ⁣</h4>
- <a href="https://www.linkedin.com/in/michael-eduardo/"><img align="center" width=15% ; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/michael-eduardo/"><img width=17%; align="center" width=15% ; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  <br>
  <br>
