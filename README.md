@@ -27,7 +27,7 @@ Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
  <div >
 <a href= "https://wa.me/5531994495245" > <img width=30px; align="left"  src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png"/>
  </a>
- <a href="https://criarmeulink.com.br/u/1679192653" ><img width=34px; src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-telefone.png/@@images/24174166-eebf-419e-97eb-1826d6dcf5ea.png"></a>
+ <a href="https://criarmeulink.com.br/u/1679192653" ><img width=33px; src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-telefone.png/@@images/24174166-eebf-419e-97eb-1826d6dcf5ea.png"></a>
  </div>
  
   <h4> Mais informações: ⁣</h4>
