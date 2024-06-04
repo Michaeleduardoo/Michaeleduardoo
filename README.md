@@ -1,51 +1,67 @@
-### Olá, seja Bem-vindo! 😎
-### É um prazer em receber você no meu perfil do GITHUB.
+
+### Bem vindo ao meu perfil GitHub 👋
+---
 
 ![](https://komarev.com/ghpvc/?username=Michaeleduardoo-github-username)
 
-Sou Michael Eduardo, sou desenvolvedor 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 apaixonado por tecnologia, tenho experiência com programação, desenvolvimento de sistemas web, manutenção e aplicação desses sistemas em empresas de médio e grande porte. Além disso, ajudo as equipes a melhorar a qualidade da documentação e a resolver problemas em seus projetos.
+### Software Developer | Apaixonado por Tecnologia
 
-Adoro aplicar códigos na página web, encherem nas telas de dispositivos móveis e ainda parecerem incríveis.
+Desenvolvedor de software com ampla experiência em programação e desenvolvimento de sistemas web, focado na criação e manutenção de soluções escaláveis para empresas de médio e grande porte. Dedicado à melhoria contínua e à excelência técnica, tenho um impacto significativo na documentação de projetos e na resolução de problemas complexos em equipes multifuncionais.
 
-Na área de 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, possuo experiência em:
-<br>
+### 🛠️ Habilidades Técnicas
+<div>
+ <img loading="lazy" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img loading="lazy" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img loading="lazy" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+ <img loading="lazy" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img loading="lazy" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+ <img loading="lazy" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+ <img loading="lazy" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+ <img loading="lazy" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+ <img loading="lazy" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+ <img loading="lazy" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
+ <img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
+ <img loading="lazy" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+ <img loading="lazy" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ <img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-<div  >
-<img width=1000px; src="https://lucent-druid-1769cc.netlify.app/image-removebg-preview%20(1).png".png" style="margin"  > 
+### 📈 Experiência Profissional
+
+#### Desenvolvedor de Software
+**Empresas de Médio e Grande Porte**
+- Projetar, desenvolver e implementar sistemas web de alta performance e escalabilidade.
+- Manutenção e atualização de sistemas legados, garantindo sua eficiência e segurança.
+- Colaboração com equipes de desenvolvimento para melhorar a qualidade do código e a documentação.
+- Resolução de problemas críticos em projetos, assegurando a continuidade e a eficiência das operações.
+
+### 🏆 Contribuições e Reconhecimentos
+- Reconhecido por aprimorar a documentação de projetos, facilitando a manutenção e o onboarding de novos desenvolvedores.
+- Participação ativa em comunidades de desenvolvimento open source, contribuindo para projetos que impactam positivamente a indústria.
+
+### 🎓 Educação
+- **Bacharelado em Engenharia de Software** - Universidade Estácio de Sá
+
+### 📧 Conecte-se comigo:
+<a href="mailto:michaeledu2018@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:michaeledu20@outlook.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B553194495245&text=Ol%C3%A1%2C+Tudo+bem%3F&type=phone_number&app_absent=0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/michael-eduardo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
- ### Conecte-se comigo:
- <h4> E-mails: ⁣</h4>
- <p>
-<a href= "mailto:michaeledu2018@gmail.com? subject=subject text"> <img width=15%; ;  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="react" />
- </a>
-  <a href= "mailto:michaeledu20@outlook.com"> <img width=17%;   src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg" alt="email">
-  </a>
- </p>
- 
- <h4> Entre em contato: ⁣</h4>
- <div >
-<a href= "https://wa.me/5531994495245" > <img width=30px; align="left"  src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png"/>
- </a>
- <a href="https://criarmeulink.com.br/u/1679192653" ><img width=33px; src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-telefone.png/@@images/24174166-eebf-419e-97eb-1826d6dcf5ea.png"></a>
- </div>
- 
-  <h4> Mais informações: ⁣</h4>
- <a href="https://www.linkedin.com/in/michael-eduardo/"><img width=17%; align="center" width=15% ; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
- <br>
- <br>
- 
-<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=Michaeleduardoo&show_icons=true&theme=dark" alt="ashok" />
 
-<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeleduardoo&count_private=true&theme=dark" alt="ashok" />
+### 🌐 Em breve meu portfólio
+<a href="#">
+    <img loading="lazy" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="MonIP" />
+</a>
 
- 
- <br>
+---
 
- 
- <h3> Obrigado por verificar a minha página.</h3>
+<div>
+<a href="https://github.com/Michaeleduardoo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeleduardoo&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Michaeleduardoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-   
-    
-
+### 🙏 Obrigado por verificar a minha página.
