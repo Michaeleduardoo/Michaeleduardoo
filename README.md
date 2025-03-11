@@ -1,12 +1,11 @@
-
-### Bem vindo ao meu perfil GitHub 👋
+### Bem-vindo ao meu perfil GitHub 👋
 ---
 
 ![](https://komarev.com/ghpvc/?username=Michaeleduardoo-github-username)
 
-### Software Developer | Apaixonado por Tecnologia
+### Desenvolvedor Front-End | Apaixonado por Tecnologia
 
-Desenvolvedor de software com ampla experiência em programação e desenvolvimento de sistemas web, focado na criação e manutenção de soluções escaláveis para empresas de médio e grande porte. Dedicado à melhoria contínua e à excelência técnica, tenho um impacto significativo na documentação de projetos e na resolução de problemas complexos em equipes multifuncionais.
+Desenvolvedor front-end com ampla experiência em programação e desenvolvimento de interfaces web, focado na criação e manutenção de soluções escaláveis para empresas de médio e grande porte. Dedicado à melhoria contínua e à excelência técnica, tenho um impacto significativo na documentação de projetos e na resolução de problemas complexos em equipes multifuncionais.
 
 ### 🛠️ Habilidades Técnicas
 <div>
@@ -28,12 +27,12 @@ Desenvolvedor de software com ampla experiência em programação e desenvolvime
 
 ### 📈 Experiência Profissional
 
-#### Desenvolvedor de Software
+#### Desenvolvedor Front-End
 **Empresas de Médio e Grande Porte**
-- Projetar, desenvolver e implementar sistemas web de alta performance e escalabilidade.
-- Manutenção e atualização de sistemas legados, garantindo sua eficiência e segurança.
-- Colaboração com equipes de desenvolvimento para melhorar a qualidade do código e a documentação.
-- Resolução de problemas críticos em projetos, assegurando a continuidade e a eficiência das operações.
+- Projetar, desenvolver e implementar interfaces web modernas e responsivas.
+- Manutenção e atualização de sistemas, garantindo eficiência e segurança.
+- Colaboração com equipes para melhorar a experiência do usuário e a performance do código.
+- Resolução de problemas críticos em projetos, assegurando usabilidade e acessibilidade.
 
 ### 🏆 Contribuições e Reconhecimentos
 - Reconhecido por aprimorar a documentação de projetos, facilitando a manutenção e o onboarding de novos desenvolvedores.
@@ -48,11 +47,8 @@ Desenvolvedor de software com ampla experiência em programação e desenvolvime
 <a href="https://api.whatsapp.com/send/?phone=%2B553194495245&text=Ol%C3%A1%2C+Tudo+bem%3F&type=phone_number&app_absent=0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/michael-eduardo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
-
-
-### 🌐 Em breve meu portfólio
-<a href="#">
+### 🌐 Portfólio
+<a href="https://mepdevs.vercel.app/">
     <img loading="lazy" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="MonIP" />
 </a>
 
@@ -65,3 +61,4 @@ Desenvolvedor de software com ampla experiência em programação e desenvolvime
 </div>
 
 ### 🙏 Obrigado por verificar a minha página.
+
