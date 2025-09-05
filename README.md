@@ -11,7 +11,7 @@ Desenvolvedor Front-End com forte atuação em projetos web e mobile, especializ
 
 ## 🛠️ Habilidades Técnicas
 
- <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwindcss,nodejs,bootstrap,postgres,wordpress,git,github&perline=13" alt="Tech Stack" />
+ <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,tailwindcss,nodejs,bootstrap,postgres,wordpress,git,github&perline=14" alt="Tech Stack" />
 
 ---
 
